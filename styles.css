@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-weight: 100;
+    margin-left: 5%;
+    margin-bottom: 0%;
+}
+
+h2 {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-weight: 100;
+    margin-left: 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h3 {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-weight: 100;
+    margin-left: 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+p {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-weight: 100;
+    margin-left: 5%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: 1.5em;
+}
