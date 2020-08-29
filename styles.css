@@ -14,7 +14,7 @@ h2 {
     color: white;
     font-family: 'Crimson Text', serif;
     font-weight: 100;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 0%;
     margin-bottom: 0%;
 }
@@ -23,7 +23,7 @@ h3 {
     color: white;
     font-family: 'Crimson Text', serif;
     font-weight: 100;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 0%;
     margin-bottom: 0%;
 }
@@ -32,8 +32,26 @@ p {
     color: white;
     font-family: 'Crimson Text', serif;
     font-weight: 100;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 0%;
     margin-bottom: 0%;
     font-size: 1.5em;
+}
+
+img {
+    margin-left: 8%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#top {
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+
+#bottom {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 5%;
 }
