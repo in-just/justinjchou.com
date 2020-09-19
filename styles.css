@@ -1,5 +1,61 @@
+@media only screen and (max-width: 500px) {
+    ul {
+        flex-direction: column;
+    }
+
+    button {
+        display: block;
+
+        padding: 2vw;
+        font-size: 3vh;
+        background-color: gray;
+        border: none;
+
+        outline: none;
+
+        cursor: pointer;
+
+        align-self: flex-start;
+    }
+}
+
 body {
     background-color: black;
+}
+
+nav {
+    width: 100vw;
+    background-color: white;
+}
+
+ul {
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-weight: 100;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+button {
+    display: none;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 2vw;
+    font-size: 3vh;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 1vw;
+}
+
+a:hover{
+    background-color: gray;
 }
 
 h1 {
@@ -45,8 +101,8 @@ img {
 }
 
 #top {
-    margin-left: 10%;
-    margin-top: 10%;
+    margin-left: 5%;
+    margin-top: 5%;
     margin-bottom: 0%;
 }
 
