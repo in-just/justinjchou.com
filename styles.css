@@ -1,11 +1,4 @@
-body {
-    background: hsla(209, 100%, 47%, 0.1);
-    background-image: radial-gradient(hsla(209, 100%, 47%, 1.00) 5%, transparent 0);
-    background-size: 30px 30px;
-}
-
 nav {
-    width: 100vw;
     background-color: white;
 }
 
@@ -26,27 +19,7 @@ button {
     display: none;
 }
 
-a {
-    text-decoration: none;
-    color: lightskyblue;
-    padding: 1vw;
-}
-
-a:hover{
-    background-color: gray;
-}
-
-h1 {
-    font-family: 'Crimson Text', serif;
-    font-weight: 100;
-}
-
-h2 {
-    font-family: 'Crimson Text', serif;
-    font-weight: 100;
-}
-
-h3 {
+h1,h2,h3 {
     font-family: 'Crimson Text', serif;
     font-weight: 100;
 }
@@ -55,12 +28,6 @@ p {
     font-family: 'Crimson Text', serif;
     font-weight: 100;
     font-size: 1.5em;
-}
-
-#top {
-    margin-left: 5%;
-    margin-top: 5%;
-    margin-bottom: 0%;
 }
 
 #bottom {
